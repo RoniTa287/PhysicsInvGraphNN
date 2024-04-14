@@ -1,0 +1,4 @@
+torch == 2.2.0
+numpy == 1.26.4
+scikit-image == 0.22.0
+torchvision == 0.17.1
